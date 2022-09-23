@@ -1,0 +1,55 @@
+.content {
+	width: 100vw;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	background-color: var(--contrast);
+	color: var(--maincolor);
+}
+
+.home {
+	font-size: 3rem;
+	font: optional;
+	cursor: pointer;
+	padding: 0.5% 1%;
+}
+
+.nav {
+	min-width: 150px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.element {
+	padding: 5% 3%;
+	border-radius: 10px;
+	min-width: 100px;
+	text-align: center;
+	cursor: pointer;
+	margin: 5% 0;
+}
+
+.element:hover {
+	background-color: var(--maincolor);
+	color: var(--background);
+	font-weight: bold;
+}
+
+@media (max-width: 720px) {
+	.content {
+		height: 100%;
+		flex-direction: column;
+		justify-content: flex-start;
+		align-items: flex-start;
+		font-size: 22px;
+	}
+
+	.nav {
+		flex-direction: column;
+		overflow: auto;
+	}
+
+	.element {
+		text-align: left;
+	}
+}
