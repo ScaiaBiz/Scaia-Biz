@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ScaiaBiz/myBakGuard/static/css/main.1443584f.css",
+    "main.js": "/ScaiaBiz/myBakGuard/static/js/main.473b9d96.js",
+    "static/js/787.ba1f095b.chunk.js": "/ScaiaBiz/myBakGuard/static/js/787.ba1f095b.chunk.js",
+    "index.html": "/ScaiaBiz/myBakGuard/index.html",
+    "main.1443584f.css.map": "/ScaiaBiz/myBakGuard/static/css/main.1443584f.css.map",
+    "main.473b9d96.js.map": "/ScaiaBiz/myBakGuard/static/js/main.473b9d96.js.map",
+    "787.ba1f095b.chunk.js.map": "/ScaiaBiz/myBakGuard/static/js/787.ba1f095b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1443584f.css",
+    "static/js/main.473b9d96.js"
+  ]
+}
