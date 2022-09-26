@@ -1,6 +1,6 @@
 {
+  "homepage":"https://ScaiaBiz.github.io/Scaia-Biz/",
   "name": "scaiabiz",
-  "homepage":"https://github.com/ScaiaBiz/myBakGuard/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
